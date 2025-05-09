@@ -1,5 +1,6 @@
 package part01;
 
+
 import java.util.ArrayList;
 
 public class ImageAlbum {
